@@ -6,5 +6,5 @@ class CounterCubit extends Cubit<int> {
   CounterCubit() : super(0);
 
   void increment() => emit(FirstFeatureMath.increment(state));
-  void decrement() => emit(CoreMath.sub(state, 2));
+  void decrement() => emit(CoreMath.sub(state, 1));
 }

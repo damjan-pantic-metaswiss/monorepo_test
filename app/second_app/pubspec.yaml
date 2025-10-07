@@ -1,6 +1,7 @@
 name: second_app
 description: Second application for testing purposes
 resolution: workspace
+publish_to: none
 version: 0.0.1+1
 
 environment:

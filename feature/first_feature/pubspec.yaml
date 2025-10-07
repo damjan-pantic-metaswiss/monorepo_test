@@ -1,6 +1,7 @@
 name: first_feature
 description: Feature that uses packages and has been used in test applications
 resolution: workspace
+publish_to: none
 version: 0.0.1+1
 
 environment:

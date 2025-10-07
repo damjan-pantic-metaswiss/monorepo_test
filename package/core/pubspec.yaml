@@ -1,6 +1,7 @@
 name: core
 description: Things that every featue or/and feature needs
 resolution: workspace
+publish_to: none
 version: 0.0.1+1
 
 environment:
