@@ -10,4 +10,7 @@ abstract class CoreMath {
 
   /// Multiply two integers.
   static int mull(int a, int b) => a * b;
+
+  /// Divide two integers.
+  static int div(int a, int b) => (a / b).round();
 }
