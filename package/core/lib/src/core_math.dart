@@ -7,4 +7,7 @@ abstract class CoreMath {
 
   /// Subtract two integers (a - b).
   static int sub(int a, int b) => a - b;
+
+  /// Multiply two integers.
+  static int mull(int a, int b) => a * b;
 }
