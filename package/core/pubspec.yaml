@@ -1,12 +1,12 @@
 name: core
 description: Things that every featue or/and feature needs
-resolution: workspace
-publish_to: none
-version: 0.0.1+1
+publish_to: https://onepub.dev/api/apavavuhno/
+repository: https://github.com/damjan-pantic-metaswiss/monorepo_test/tree/main/package/core
+version: 1.0.0
 
 environment:
   sdk: ^3.9.0
-  flutter: ^3.35.0
+  flutter: '>=3.35.0'
 
 dependencies:
   flutter:
