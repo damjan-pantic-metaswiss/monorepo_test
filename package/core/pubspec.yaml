@@ -2,7 +2,8 @@ name: core
 description: Things that every featue or/and feature needs
 publish_to: https://onepub.dev/api/apavavuhno/
 repository: https://github.com/damjan-pantic-metaswiss/monorepo_test/tree/main/package/core
-version: 1.0.0
+resolution: workspace
+version: 2.0.0
 
 environment:
   sdk: ^3.9.0

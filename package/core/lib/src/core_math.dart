@@ -1,4 +1,6 @@
 abstract class CoreMath {
-  static int add(int a, int b) => a + b;
-  static int sub(int a, int b) => a - b;
+  static double add(double a, double b) => a + b;
+  static double sub(double a, double b) => a - b;
+  static double mul(double a, double b) => a * b;
+  static double div(double a, double b) => a / b;
 }

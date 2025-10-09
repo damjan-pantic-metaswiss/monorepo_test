@@ -15,6 +15,8 @@ onepub pub add core
 ---
 ## How to use
 
-There is to methods in **CoreMath**:
+Methods available in **CoreMath**:
 - Addition
 - Subtraction
+- Multiplication
+- Division

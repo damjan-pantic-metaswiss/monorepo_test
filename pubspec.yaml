@@ -11,7 +11,7 @@ workspace:
   - app/first_app
   - app/second_app
   - feature/first_feature
-  - package/core
+  # - package/core
 
 melos:
   scripts:
